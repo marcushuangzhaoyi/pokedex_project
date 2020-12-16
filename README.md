@@ -17,3 +17,4 @@ For frontend(react)
 `npm install prop-types`
 
 `npm install react-bootstrap`
+`npm install styled-components`
