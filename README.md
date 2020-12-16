@@ -10,7 +10,7 @@ For backend(django)
 
 `pip install django-cors-headers`
 
-#please isntall the following package for frontend(react)
+For frontend(react)
 
 `npm install react-router-dom`
 
