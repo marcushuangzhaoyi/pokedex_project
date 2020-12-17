@@ -22,3 +22,9 @@ For frontend(react)
 
 # How to run
 The project is not deployed yet. Please go into the backend folder and run `python manage.py runserver`, then for the open the frontend folder and run `serve -s build` to run the build folder
+
+There is already a username and password you can used to log in:
+
+username:zhaoyihuang
+
+password:12345
