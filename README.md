@@ -21,7 +21,7 @@ For frontend(react)
 `npm install styled-components`
 
 # How to run
-The project is not deployed yet. Please go into the backend folder and run `python manage.py runserver`, then for the open the frontend folder and run `serve -s build` to run the build folder
+The project is not deployed yet. Please go into the backend folder and run `python manage.py runserver`, then for the open the frontend folder and run `serve -s build` to run the build folder. Then go to localhost:5000 to log in
 
 There is already a username and password you can used to log in:
 
